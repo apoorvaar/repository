@@ -1,7 +1,7 @@
-public class Class1 
+public class DemoTest 
 {
 	public static void main(String[] args) 
 	{
-		System.out.println("First Build");
+		System.out.println("Success");
 	}
 }
